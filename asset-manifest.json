@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.78e283ec.chunk.css",
+    "main.js": "./static/js/main.71804afc.chunk.js",
+    "main.js.map": "./static/js/main.71804afc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.69e7afd8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.69e7afd8.js.map",
+    "static/css/2.337bf5f1.chunk.css": "./static/css/2.337bf5f1.chunk.css",
+    "static/js/2.338ed11d.chunk.js": "./static/js/2.338ed11d.chunk.js",
+    "static/js/2.338ed11d.chunk.js.map": "./static/js/2.338ed11d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.337bf5f1.chunk.css.map": "./static/css/2.337bf5f1.chunk.css.map",
+    "static/css/main.78e283ec.chunk.css.map": "./static/css/main.78e283ec.chunk.css.map",
+    "static/js/2.338ed11d.chunk.js.LICENSE.txt": "./static/js/2.338ed11d.chunk.js.LICENSE.txt",
+    "static/media/001-dog-house.37b4f657.png": "./static/media/001-dog-house.37b4f657.png",
+    "static/media/004-dog-collar.09ca28a7.png": "./static/media/004-dog-collar.09ca28a7.png",
+    "static/media/014-rabbit.a42911a1.png": "./static/media/014-rabbit.a42911a1.png",
+    "static/media/030-dog.328d4c09.png": "./static/media/030-dog.328d4c09.png",
+    "static/media/031-paw.0db6a3e6.png": "./static/media/031-paw.0db6a3e6.png",
+    "static/media/036-bone.620455be.png": "./static/media/036-bone.620455be.png",
+    "static/media/039-cat-box.25b410d6.png": "./static/media/039-cat-box.25b410d6.png",
+    "static/media/040-turtle.d41633c0.png": "./static/media/040-turtle.d41633c0.png",
+    "static/media/045-hamster.d9f88465.png": "./static/media/045-hamster.d9f88465.png",
+    "static/media/046-cat.11ee02ed.png": "./static/media/046-cat.11ee02ed.png",
+    "static/media/047-lovebird.2d763d3c.png": "./static/media/047-lovebird.2d763d3c.png",
+    "static/media/049-assistant.a896940e.png": "./static/media/049-assistant.a896940e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69e7afd8.js",
+    "static/css/2.337bf5f1.chunk.css",
+    "static/js/2.338ed11d.chunk.js",
+    "static/css/main.78e283ec.chunk.css",
+    "static/js/main.71804afc.chunk.js"
+  ]
+}
